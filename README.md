@@ -1,4 +1,4 @@
-# 💻 LapBot: End-to-End Laptop Intelligence System & AI Assistant
+# 💻 LapBot - An AI-powered QA system provides personalized laptop recommendations
 
 [](https://www.google.com/search?q=https://www.python.org/)
 [](https://www.google.com/search?q=https://docs.djangoproject.com/)
