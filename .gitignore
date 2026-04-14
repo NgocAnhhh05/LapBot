@@ -3,7 +3,21 @@
 
 # Python
 __pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+.gitkeep
 
-# Environment files
-.env
-.env.*
+# Node/Frontend
+node_modules/
+dist/
+.vite/
+
+# Database & Local Logs
+# *.sqlite3
+*.log
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
