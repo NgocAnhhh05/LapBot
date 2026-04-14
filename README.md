@@ -7,11 +7,11 @@
 
 ## 📖 Project Overview
 
-**LapBot** is a comprehensive data platform designed to aggregate, process, and analyze laptop market data from Vietnam's leading e-commerce retailers (CellphoneS, The Gioi Di Dong).
+**LapBot** is an AI-powered QA system provides personalized laptop recommendations. It obtains a data platform designed to aggregate, process, and analyze laptop market data from Vietnam's leading e-commerce retailers (CellphoneS, The Gioi Di Dong).
 
 The project solves the problem of fragmented and missing technical specifications by implementing a modern **Medallion Data Architecture** and leveraging **Large Language Models (LLMs)** for automated data enrichment. The final product is an intelligent AI Assistant that provides expert laptop recommendations based on real-time market data.
 
-![alt text](lapbot/src/demo/images/frontend.png)
+![alt text](lapbot/src/demo/images/data_flow.png)
 
 -----
 
@@ -36,7 +36,7 @@ The pipeline ensures high data quality through three distinct layers:
 2.  **Silver (Validated):** Cleaned and standardized data with consistent schemas and handled outliers.
 3.  **Gold (Enriched):** Business-ready data enriched by LLM-driven imputation and math-reasoning agents, optimized for the AI Assistant.
 
-![alt text](lapbot/src/demo/images/data_flow.png)
+![alt text](lapbot/src/demo/images/frontend.png)
 
 
 -----
